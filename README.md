@@ -12,5 +12,3 @@ Petunjuk instalasi NASM untuk berbagai sistem operasi.
 - **Stack dan Pop**: `stack_pop.asm`
 - **Conditional**: `conditional.asm`
 
-## Video Demo
-[Link Video Demo](https://www.youtube.com/your-video-link)
